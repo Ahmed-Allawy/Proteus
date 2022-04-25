@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Interrupt-handling-With-PIC-microController\IRRIGATION\FINALCODE.mcppi
+Project1=SmartLock.mcppi
+[ActiveProject]
+Index=1
